@@ -1,0 +1,15 @@
+h1{
+	font-size: 36px;text-align: center;font-style: italic;background: #FFE696;color:black;
+}
+[data]{
+	text-transform: uppercase;color:#85FF78;
+}
+h2+ul{
+	font-family: helvetica;font-style: italic;
+	
+}
+h2{font-style: italic;background: #FFE696;color:black;text-align: center;}
+div{
+	margin-left: 35px;margin-right: 35px;
+}
+img{margin-left: 200px;}
